@@ -1,0 +1,6 @@
+framework module Pods_Fade {
+  umbrella header "Pods-Fade-umbrella.h"
+
+  export *
+  module * { export * }
+}
